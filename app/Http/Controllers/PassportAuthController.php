@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
-use App\Models\Profiles;
+use App\Models\User;
 
 class PassportAuthController extends Controller
 {
